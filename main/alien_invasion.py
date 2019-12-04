@@ -4,6 +4,7 @@ import pygame
 from settings.settings import Settings
 from role.ship import Ship
 
+
 def run_game():
     # 初始化游戏并创建一个屏幕对象
     pygame.init()
